@@ -2,7 +2,6 @@
 
 ##
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Atualmente focado em Estrutura de Dados
 - 📫 Como me contatar: joaohenriquelamounier@gmail.com
 <!--
 - <picture>
